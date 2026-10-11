@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Khadija 👋
 
-<!--
-**khadijaOubaha/khadijaOubaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student
 
-Here are some ideas to get you started:
+I'm interested in software development, DevOps, microservices, and artificial intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+- **Programming:** Python, PHP, JavaScript, SQL
+- **Backend:** Laravel, Django, REST APIs
+- **Frontend:** React, Next.js, Tailwind CSS
+- **DevOps:** Docker, Docker Compose, Jenkins, Kubernetes
+- **Databases:** PostgreSQL, MySQL
+- **Tools:** Git and GitHub
+
+## 🚀 My Projects
+
+- **DevOps Lab:** Learning and practicing DevOps tools and CI/CD.
+- **Jenkins Demo:** Exploring automation pipelines with Jenkins.
+- **Skoolution:** Working on a school management platform with microservices.
+- **MedAssist AI:** Contributing to an AI-powered healthcare assistant.
+
+## 🎯 My Goals
+
+- Improve my software engineering skills.
+- Build reliable applications.
+- Learn more about CI/CD and cloud technologies.
+
+## 📫 Contact
+
+- GitHub: [@khadijaOubaha](https://github.com/khadijaOubaha)
