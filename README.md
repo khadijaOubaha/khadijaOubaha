@@ -7,7 +7,7 @@ I'm interested in software development, DevOps, microservices, and artificial in
 ## 🛠️ Technical Skills
 
 - **Programming:** Python, PHP, JavaScript, SQL
-- **Backend:** Laravel, Django, REST APIs
+- **Backend:** Laravel, FastApi, REST APIs
 - **Frontend:** React, Next.js, Tailwind CSS
 - **DevOps:** Docker, Docker Compose, Jenkins, Kubernetes
 - **Databases:** PostgreSQL, MySQL
