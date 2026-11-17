@@ -29,3 +29,5 @@ I'm interested in software development, DevOps, microservices, and artificial in
 ## 📫 Contact
 
 - GitHub: [@khadijaOubaha](https://github.com/khadijaOubaha)
+- Email: oubahak28@gmail.com
+
